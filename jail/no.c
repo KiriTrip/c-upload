@@ -14,7 +14,7 @@ int del(int a, int b)
 int main()
 {
     setlocale(LC_ALL, "RU");
-    int a = 10, b = 2;
+    int a = 10, b = 3;
 
     if (del(a, b))
         printf("\n Yes");
